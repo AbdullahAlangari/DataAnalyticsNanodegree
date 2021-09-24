@@ -1,4 +1,4 @@
-# INvestigating Football Database
+# Investigating Football Database
 
 In this project, I went through the Data Analysis Process by:
 
